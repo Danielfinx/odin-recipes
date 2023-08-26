@@ -50,4 +50,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [CC0-1.0](LIC ENSE) licensed.
+This project is [CC0-1.0](LICENSE) licensed.
