@@ -9,6 +9,7 @@
 ## Built With
 
 - HTML
+- CSS
 
 ## Live Demo
 
